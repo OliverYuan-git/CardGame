@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 312ceebd821104d929a1d8be19fffc65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverUI1: {instanceID: 0}
+  - gameOverUI2: {instanceID: 0}
+  - dropdownUI: {fileID: 6801306768065080542, guid: a3ba048fdcfd3d341b0ef6daf70dc8d8, type: 3}
+  - originalCard: {instanceID: 0}
+  - scoreLabel: {instanceID: 0}
+  - particleEffectPrefab: {instanceID: 0}
+  - particleEffect: {instanceID: 0}
+  - particleEffect2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
